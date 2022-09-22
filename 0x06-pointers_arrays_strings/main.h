@@ -11,5 +11,6 @@
 int _putchar(char c);
 char *_strcat(char *dest, char *src);
 char *_strcat(char*, char*);
+char *_strncpy(char*, char*, int);
 
 #endif
